@@ -1,1 +1,1 @@
-# Jupyter-Assignmemt
+# Jupyter-Assignment
